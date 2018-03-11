@@ -1,1 +1,1 @@
-FROM myfirstdockerimage:v1
+FROM ubuntu
